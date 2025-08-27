@@ -1,5 +1,5 @@
 defaultProject: sandbox-ch
 defaultLocation: northamerica-northeast1
-defaultDataset: dataform
+defaultDataset: test_ch
 defaultAssertionDataset: dataform_assertions
 dataformCoreVersion: 3.0.0
