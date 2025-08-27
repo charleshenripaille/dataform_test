@@ -1,1 +1,8 @@
+config {
+  type: "table", // Creates a view in BigQuery. Try changing to "table" instead.
+  columns: {
+    lol: "une bonne petite blague", // Column descriptions are pushed to BigQuery.
+  }
+}
+
 select "pouet pouet" as lol
